@@ -67,7 +67,7 @@ Always verify items before deleting them to avoid removing files still used by a
 
 ## 🔧 Installation
 
-[![Download MacFossils](https://img.shields.io/badge/Download-MacFossils-blue)](https://github.com/KeepCoolCH/MacFossils/raw/refs/heads/main/MacFossils.zip)
+[![Download MacFossils](https://img.shields.io/badge/Download-MacFossils-blue)](https://github.com/KeepCoolCH/MacFossils/releases/tag/V.1.0)
 
 1. Download the latest **MacFossils.app** release
 2. Move **MacFossils.app** to your **Applications** folder
