@@ -2,6 +2,8 @@
 
 # MacFossils for macOS
 
+[![Download MacFossils](https://img.shields.io/badge/Download-MacFossils-blue)](https://github.com/KeepCoolCH/MacFossils/releases/tag/V.1.0)
+
 **MacFossils** scans your Mac for leftover files from uninstalled apps and helps you clean up your system.  
 Version **1.0** – developed by **Kevin Tobler** 🌐 [www.kevintobler.ch](https://www.kevintobler.ch)
 
