@@ -1,4 +1,4 @@
-![Hero Screenshot](https://online.kevintobler.ch/projectimages/DockAMP-Banner.jpg)
+![Hero Screenshot](https://online.kevintobler.ch/projectimages/MacFossils-Banner.jpg)
 
 # MacFossils
 
