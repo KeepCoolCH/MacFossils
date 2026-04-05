@@ -1,6 +1,6 @@
 ![Hero Screenshot](https://online.kevintobler.ch/projectimages/MacFossils-Banner.jpg)
 
-# MacFossils
+# MacFossils for macOS
 
 **MacFossils** scans your Mac for leftover files from uninstalled apps and helps you clean up your system.  
 Version **1.0** – developed by **Kevin Tobler** 🌐 [www.kevintobler.ch](https://www.kevintobler.ch)
